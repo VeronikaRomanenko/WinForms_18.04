@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18._04.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18._04.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.pdb
