@@ -7,3 +7,13 @@ D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\Wi
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csproj.GenerateResource.Cache
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.exe
 D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\bin\Debug\WinForms_18.04.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18._04.Form1.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18._04.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\WinForms_18.04\WinForms_18.04\WinForms_18.04\obj\Debug\WinForms_18.04.pdb
